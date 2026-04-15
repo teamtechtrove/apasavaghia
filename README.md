@@ -109,6 +109,6 @@ Runs on port 5000. DB auto-created on first run.
 ## Default Admin Credentials
 
 - **User ID:** `fardin`
-- **Password:** `HormlseAin#224`
+- **Password:** `HormluseAdmin#2024`
 
 Change via Security tab in admin panel after first login.
